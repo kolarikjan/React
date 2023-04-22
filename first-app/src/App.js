@@ -38,6 +38,7 @@ function App() {
       <ExpenseItem title={expenses[3].title} price={expenses[3].amount} date={expenses[3].date}></ExpenseItem>
     </div>
   );
+  
 }
 
 export default App;
